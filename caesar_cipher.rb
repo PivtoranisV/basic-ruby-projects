@@ -14,6 +14,3 @@ def caesar_cipher(text, shift)
     end
   end.join
 end
-
-p caesar_cipher('Bmfy f xywnsl!', -5)
-p caesar_cipher('!!!Hello!!!', 15)
